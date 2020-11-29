@@ -1,10 +1,11 @@
 # techdegree-wheelofsuccess-project-6
 
 <h1>Guess The Anime</h1></br>
+<h3>The background of the game</h3>
 Using JavaScript i've created an array of phrases and wrote functions to choose a random phrase from the the created array.<br/>
 Split the phrase into letters and put those letters onto the game board. <br/>
  <br/>
-Each time the player guesses a letter, you’ll need to compare the letter the player has chosen with the random phrase. 
+Each time the player guesses a letter, you’ll need to compare the letter the player has chosen with the random phrase. <br/>
 <br/> If the letter is in the phrase, you’ll update the game board with the chosen letters.<br/>
 
 A player can keep choosing letters until they make five incorrect guesses. 
