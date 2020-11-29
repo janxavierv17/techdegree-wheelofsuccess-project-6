@@ -3,7 +3,7 @@
 <h1>Guess The Anime</h1></br>
 Using JavaScript i've created an array of phrases and wrote functions to choose a random phrase from the the created array.<br/>
 Split the phrase into letters and put those letters onto the game board. <br/>
-
+ <br/>
 Each time the player guesses a letter, you’ll need to compare the letter the player has chosen with the random phrase. 
 <br/> If the letter is in the phrase, you’ll update the game board with the chosen letters.<br/>
 
