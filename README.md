@@ -1,4 +1,4 @@
 # techdegree-wheelofsuccess-project-6
 
-Wheel of Success
+<h1>Guess The Anime</h1>
 <br/>
